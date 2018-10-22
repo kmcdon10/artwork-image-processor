@@ -2,7 +2,7 @@
 # Add any you want to install as a third party library
 # pyperclip
 # pygame
-python==3.6
+python==3.6.5
 django==2.1.2
 tensorflow==1.10
 bootstrap==4.1.3
